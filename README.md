@@ -2,9 +2,6 @@
 
 Programing project Full Stack, utilizando JavaScript, React,React-Router-DOM, Tailwind, NodeJs, MySQL2 y Express
 
-Live Site URL:
-This is a solution to the [Coffee Shop Lading page with BEM and SASS](http://algo.com). CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - Languages
@@ -31,9 +28,6 @@ When user logs NodeJS generated a JWT Token, and it's keep it on local Storage f
 The app has some public routes like: Register, Login, Forgot my password, and Generate a new Password
 
 ### Links
-
-- Solution URL: [GitHub](https://github.com/jaac97/cafeteria)
-- Live Site URL: [GitHub Pages](https://jaac97.github.io/cafeteria/)
 
 ## My process
 

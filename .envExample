@@ -1,0 +1,10 @@
+DB=dataBaseName
+DBUSER=dataBaseUser
+PASSWORD=dataBasePassword
+JWT_SECRET=jwtSecretWord
+TZ=timeZone
+EMAIL_USER=
+EMAIL_PASS=
+EMAIL_HOST=
+EMAIL_PORT=
+FRONT_URL=http://example:3000

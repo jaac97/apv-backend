@@ -19,7 +19,7 @@ new Date().toLocaleString();
 
 // Cors Options
 // const whiteList = ['http://localhost:4000'];
-var whitelist =[process.env.FRONT_URL];
+var whitelist =[process.env.FRONT_URL, "*"];
 console.log(whitelist)
 var corsOptions = {
   origin: function (origin, callback) {

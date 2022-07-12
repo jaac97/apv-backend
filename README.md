@@ -1,6 +1,6 @@
 # administrador-pacientes
 
-Desarrollo de proyecto Full Stack, utilizando JavaScript, React,React-Router-DOM, Bootstrap, NodeJs, MySQL2 y Express
+Programing project Full Stack, utilizando JavaScript, React,React-Router-DOM, Tailwind, NodeJs, MySQL2 y Express
 
 Live Site URL:
 This is a solution to the [Coffee Shop Lading page with BEM and SASS](http://algo.com). CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos challenges help you improve your coding skills by building realistic projects.

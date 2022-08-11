@@ -19,25 +19,18 @@ new Date().toLocaleString();
 
 // Cors Options
 // const whiteList = ['http://localhost:4000'];
-var whitelist =[process.env.FRONT_URL];
-console.log(whitelist)
-/* var corsOptions = {
-  origin: function (origin, callback) {
-    if (whitelist.indexOf(origin) !== -1 || !origin) {
-      callback(null, true)
-    } else {  
-      callback(new Error('Not allowed by CORS'))
-    }
-  }
-}
+//var whitelist =[process.env.FRONT_URL];
 
- */
+
+
+app.use(cors())
+
 /* var corsOptions = {
   origin: 'http://example.com',
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 } */
 // Use Cors
-app.use(cors(whitelist))
+// app.use(cors(whitelist))
 
 
 
